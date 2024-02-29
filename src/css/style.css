@@ -63,7 +63,7 @@ a:hover{
 }
 footer{
     position: fixed;
-    bottom: 0;
+    bottom: 15px;
     display: flex;
     gap: 40px;
     width: 100%;
@@ -72,7 +72,7 @@ footer{
 
 ion-icon{
     color: #fff;
-    font-size: 24px;
+    font-size: 35px;
 }
 
 footer img{
